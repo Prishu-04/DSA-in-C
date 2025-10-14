@@ -4,13 +4,19 @@ This is a Reposistory Regarding the DATA STRUCTURE AND ALGORITHM in C programmin
 In this We would be covering :
 1. Basic Components :
    i. Mathematical Things
+   
    ii. Time COmplexity
+   
    iii. Structure
+   
    iv. Pointer
-   v. Dynamic Memory Allocation  
-3. Data Structure :
+   
+   v. Dynamic Memory Allocation
+   
+2. Data Structure :
+   
    i. Arrays
-       a. 1D Array
+       a. 1D Array   
        b. 2D Array
        c. Dynamic Array
        d. Sparse Matrix
