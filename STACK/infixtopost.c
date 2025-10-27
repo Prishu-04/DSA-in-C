@@ -32,7 +32,7 @@ int push(stack *s, char val){
 }
 
 // Pop function
-int pop(stack *s, char *d){
+int pop(stack *s, char *d){   
      if(s->top==NULL){
           return 1;   // underflow
      }
